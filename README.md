@@ -53,8 +53,6 @@ I turn raw, fragmented data into trustworthy reporting, useful dashboards, and p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karanvirsaib&show_icons=true&hide_border=true&theme=transparent" alt="Karanvir's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanvirsaib&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karanvirsaib/Karanvirsaib/output/github-contribution-grid-snake-dark.svg" />
